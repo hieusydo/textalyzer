@@ -1,2 +1,2 @@
 #Textalyzer
-Analyze text to determine the tone
+Sentiment analysis in news articles
