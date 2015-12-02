@@ -1,6 +1,5 @@
 #Textalyzer
-Sentiment analysis in news articles
-=======
+
 Analyze text to determine the tone
 
 IBM BueMix: https://tone-analyzer-demo.mybluemix.net/
